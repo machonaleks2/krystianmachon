@@ -1,7 +1,10 @@
-title:             Creative - Start Bootstrap Theme
-email:             your-email@example.com
-description:
+lang: pl
+languages: ["pl"]
+title:             
+email:            
+description:       
 author:
+encoding: UTF-8
 
 plugins:
   - jekyll-seo-tag
